@@ -92,9 +92,10 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """
+
 #Dev:NURUL AMIN MAHFUJ 
 ##### LOGO #####
+logo = """
 \033[1;94m         ____  _            _    
 \033[1;94m        |  _ \| |          | |   
 \033[1;94m        | |_) | | __ _  ___| | __
